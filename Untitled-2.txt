@@ -1,0 +1,50 @@
+√4种转换
+√deque——映射实现
+√双栈实现队列
+√如何防止死锁——银行家算法
+堆排序
+仿函数
+非递归快排
+RAII
+图论
+CSAPP-pink
+模板
+enum
+重建二叉树
+B+树
+海量数据
+数据大小
+kmp
+√select/poll/epoll的区别
+共享指针
+√auto_ptr
+异常
+外部排序
+-------------------------------------
+20170828
+c++ 内存布局
+生产者消费者
+stl 容器
+
+20170922
+单例
+UID用户id 
+GID组id
+进程pid 进程id  getpid()
+线程pid syscall(SYS_gettid) 系统内唯一
+tid 通过pthread_self 获得，是线程id，在进程中唯一，跨进程不唯一
+
+进程间通信
+管道 信号量 信号 共享内存 消息队列 FIFO socket
+STL
+智能指针
+proactor模式和reactor模式
+类型转换
+bloom filter
+√B树
+√B+树
+红黑树
+CURD
+事务
+√快排
+二叉树遍历
